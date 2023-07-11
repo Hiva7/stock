@@ -18,7 +18,6 @@ C:\Users\NaNa\source\repos\Stock_Management\Stock_Management\obj\Debug\Stock_Man
 C:\Users\NaNa\source\repos\Stock_Management\Stock_Management\obj\Debug\Stock_Management.movementAdd.resources
 C:\Users\NaNa\source\repos\Stock_Management\Stock_Management\obj\Debug\Stock_Management.movementDelete.resources
 C:\Users\NaNa\source\repos\Stock_Management\Stock_Management\obj\Debug\Stock_Management.movementEdit.resources
-C:\Users\User\source\repos\Stock_Management\Stock_Management\Stock_Management\obj\Debug\Stock_Management.vbprojAssemblyReference.cache
 C:\Users\User\source\repos\Stock_Management\Stock_Management\Stock_Management\obj\Debug\Stock_Management.exe
 C:\Users\User\source\repos\Stock_Management\Stock_Management\Stock_Management\obj\Debug\Stock_Management.xml
 C:\Users\User\source\repos\Stock_Management\Stock_Management\Stock_Management\obj\Debug\Stock_Management.pdb

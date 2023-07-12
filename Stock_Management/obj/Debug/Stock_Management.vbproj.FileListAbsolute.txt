@@ -207,3 +207,4 @@ C:\Users\User\Documents\School\Coding\will_delete_later\Stock_Management\Stock_M
 C:\Users\User\Documents\School\Coding\will_delete_later\Stock_Management\Stock_Management\Stock_Management\obj\Debug\Stock_Management.exe
 C:\Users\User\Documents\School\Coding\will_delete_later\Stock_Management\Stock_Management\Stock_Management\obj\Debug\Stock_Management.xml
 C:\Users\User\Documents\School\Coding\will_delete_later\Stock_Management\Stock_Management\Stock_Management\obj\Debug\Stock_Management.pdb
+C:\Users\User\source\repos\Stock_Management\Stock_Management\Stock_Management\obj\Debug\Stock_Management.vbprojAssemblyReference.cache

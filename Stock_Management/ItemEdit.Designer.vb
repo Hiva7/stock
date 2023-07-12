@@ -38,6 +38,12 @@ Partial Class ItemEdit
         Me.Guna2TextBox5 = New Guna.UI2.WinForms.Guna2TextBox()
         Me.Guna2HtmlLabel6 = New Guna.UI2.WinForms.Guna2HtmlLabel()
         Me.Guna2PictureBox1 = New Guna.UI2.WinForms.Guna2PictureBox()
+        Me.Label5 = New System.Windows.Forms.Label()
+        Me.Label4 = New System.Windows.Forms.Label()
+        Me.Label3 = New System.Windows.Forms.Label()
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.Label1 = New System.Windows.Forms.Label()
+        Me.Label6 = New System.Windows.Forms.Label()
         CType(Me.Guna2PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -51,7 +57,7 @@ Partial Class ItemEdit
         Me.Guna2HtmlLabel5.Font = New System.Drawing.Font("MS Reference Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Guna2HtmlLabel5.ForeColor = System.Drawing.Color.Lime
         Me.Guna2HtmlLabel5.Location = New System.Drawing.Point(156, 54)
-        Me.Guna2HtmlLabel5.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.Guna2HtmlLabel5.Margin = New System.Windows.Forms.Padding(4)
         Me.Guna2HtmlLabel5.Name = "Guna2HtmlLabel5"
         Me.Guna2HtmlLabel5.Size = New System.Drawing.Size(331, 44)
         Me.Guna2HtmlLabel5.TabIndex = 23
@@ -62,8 +68,8 @@ Partial Class ItemEdit
         Me.Guna2HtmlLabel1.BackColor = System.Drawing.Color.Transparent
         Me.Guna2HtmlLabel1.Font = New System.Drawing.Font("Battambang", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Guna2HtmlLabel1.ForeColor = System.Drawing.SystemColors.ControlLight
-        Me.Guna2HtmlLabel1.Location = New System.Drawing.Point(187, 208)
-        Me.Guna2HtmlLabel1.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.Guna2HtmlLabel1.Location = New System.Drawing.Point(177, 208)
+        Me.Guna2HtmlLabel1.Margin = New System.Windows.Forms.Padding(4)
         Me.Guna2HtmlLabel1.Name = "Guna2HtmlLabel1"
         Me.Guna2HtmlLabel1.Size = New System.Drawing.Size(38, 49)
         Me.Guna2HtmlLabel1.TabIndex = 24
@@ -74,8 +80,8 @@ Partial Class ItemEdit
         Me.Guna2HtmlLabel2.BackColor = System.Drawing.Color.Transparent
         Me.Guna2HtmlLabel2.Font = New System.Drawing.Font("Battambang", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Guna2HtmlLabel2.ForeColor = System.Drawing.SystemColors.ControlLight
-        Me.Guna2HtmlLabel2.Location = New System.Drawing.Point(131, 265)
-        Me.Guna2HtmlLabel2.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.Guna2HtmlLabel2.Location = New System.Drawing.Point(121, 265)
+        Me.Guna2HtmlLabel2.Margin = New System.Windows.Forms.Padding(4)
         Me.Guna2HtmlLabel2.Name = "Guna2HtmlLabel2"
         Me.Guna2HtmlLabel2.Size = New System.Drawing.Size(94, 49)
         Me.Guna2HtmlLabel2.TabIndex = 27
@@ -86,8 +92,8 @@ Partial Class ItemEdit
         Me.Guna2HtmlLabel3.BackColor = System.Drawing.Color.Transparent
         Me.Guna2HtmlLabel3.Font = New System.Drawing.Font("Battambang", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Guna2HtmlLabel3.ForeColor = System.Drawing.SystemColors.ControlLight
-        Me.Guna2HtmlLabel3.Location = New System.Drawing.Point(84, 382)
-        Me.Guna2HtmlLabel3.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.Guna2HtmlLabel3.Location = New System.Drawing.Point(74, 382)
+        Me.Guna2HtmlLabel3.Margin = New System.Windows.Forms.Padding(4)
         Me.Guna2HtmlLabel3.Name = "Guna2HtmlLabel3"
         Me.Guna2HtmlLabel3.Size = New System.Drawing.Size(141, 49)
         Me.Guna2HtmlLabel3.TabIndex = 28
@@ -98,8 +104,8 @@ Partial Class ItemEdit
         Me.Guna2HtmlLabel4.BackColor = System.Drawing.Color.Transparent
         Me.Guna2HtmlLabel4.Font = New System.Drawing.Font("Battambang", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Guna2HtmlLabel4.ForeColor = System.Drawing.SystemColors.ControlLight
-        Me.Guna2HtmlLabel4.Location = New System.Drawing.Point(51, 321)
-        Me.Guna2HtmlLabel4.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.Guna2HtmlLabel4.Location = New System.Drawing.Point(41, 321)
+        Me.Guna2HtmlLabel4.Margin = New System.Windows.Forms.Padding(4)
         Me.Guna2HtmlLabel4.Name = "Guna2HtmlLabel4"
         Me.Guna2HtmlLabel4.Size = New System.Drawing.Size(174, 49)
         Me.Guna2HtmlLabel4.TabIndex = 29
@@ -212,7 +218,7 @@ Partial Class ItemEdit
         Me.Guna2Button1.Font = New System.Drawing.Font("Segoe UI Semibold", 14.25!)
         Me.Guna2Button1.ForeColor = System.Drawing.Color.White
         Me.Guna2Button1.Location = New System.Drawing.Point(299, 546)
-        Me.Guna2Button1.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.Guna2Button1.Margin = New System.Windows.Forms.Padding(4)
         Me.Guna2Button1.Name = "Guna2Button1"
         Me.Guna2Button1.Size = New System.Drawing.Size(171, 55)
         Me.Guna2Button1.TabIndex = 37
@@ -247,8 +253,8 @@ Partial Class ItemEdit
         Me.Guna2HtmlLabel6.BackColor = System.Drawing.Color.Transparent
         Me.Guna2HtmlLabel6.Font = New System.Drawing.Font("Battambang", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Guna2HtmlLabel6.ForeColor = System.Drawing.SystemColors.ControlLight
-        Me.Guna2HtmlLabel6.Location = New System.Drawing.Point(144, 446)
-        Me.Guna2HtmlLabel6.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.Guna2HtmlLabel6.Location = New System.Drawing.Point(134, 446)
+        Me.Guna2HtmlLabel6.Margin = New System.Windows.Forms.Padding(4)
         Me.Guna2HtmlLabel6.Name = "Guna2HtmlLabel6"
         Me.Guna2HtmlLabel6.Size = New System.Drawing.Size(81, 49)
         Me.Guna2HtmlLabel6.TabIndex = 38
@@ -259,11 +265,77 @@ Partial Class ItemEdit
         Me.Guna2PictureBox1.Image = CType(resources.GetObject("Guna2PictureBox1.Image"), System.Drawing.Image)
         Me.Guna2PictureBox1.ImageRotate = 0!
         Me.Guna2PictureBox1.Location = New System.Drawing.Point(581, 22)
-        Me.Guna2PictureBox1.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.Guna2PictureBox1.Margin = New System.Windows.Forms.Padding(4)
         Me.Guna2PictureBox1.Name = "Guna2PictureBox1"
         Me.Guna2PictureBox1.Size = New System.Drawing.Size(55, 54)
         Me.Guna2PictureBox1.TabIndex = 39
         Me.Guna2PictureBox1.TabStop = False
+        '
+        'Label5
+        '
+        Me.Label5.AutoSize = True
+        Me.Label5.Font = New System.Drawing.Font("MS Reference Sans Serif", 20.25!, System.Drawing.FontStyle.Bold)
+        Me.Label5.ForeColor = System.Drawing.Color.Lime
+        Me.Label5.Location = New System.Drawing.Point(149, 56)
+        Me.Label5.Name = "Label5"
+        Me.Label5.Size = New System.Drawing.Size(346, 42)
+        Me.Label5.TabIndex = 42
+        Me.Label5.Text = "Item Management"
+        '
+        'Label4
+        '
+        Me.Label4.AutoSize = True
+        Me.Label4.Font = New System.Drawing.Font("Battambang", 15.75!)
+        Me.Label4.ForeColor = System.Drawing.SystemColors.ControlLight
+        Me.Label4.Location = New System.Drawing.Point(126, 446)
+        Me.Label4.Name = "Label4"
+        Me.Label4.Size = New System.Drawing.Size(102, 49)
+        Me.Label4.TabIndex = 46
+        Me.Label4.Text = "Price"
+        '
+        'Label3
+        '
+        Me.Label3.AutoSize = True
+        Me.Label3.Font = New System.Drawing.Font("Battambang", 15.75!)
+        Me.Label3.ForeColor = System.Drawing.SystemColors.ControlLight
+        Me.Label3.Location = New System.Drawing.Point(30, 321)
+        Me.Label3.Name = "Label3"
+        Me.Label3.Size = New System.Drawing.Size(197, 49)
+        Me.Label3.TabIndex = 45
+        Me.Label3.Text = "Description"
+        '
+        'Label2
+        '
+        Me.Label2.AutoSize = True
+        Me.Label2.Font = New System.Drawing.Font("Battambang", 15.75!)
+        Me.Label2.ForeColor = System.Drawing.SystemColors.ControlLight
+        Me.Label2.Location = New System.Drawing.Point(65, 386)
+        Me.Label2.Name = "Label2"
+        Me.Label2.Size = New System.Drawing.Size(163, 49)
+        Me.Label2.TabIndex = 44
+        Me.Label2.Text = "Category"
+        '
+        'Label1
+        '
+        Me.Label1.AutoSize = True
+        Me.Label1.Font = New System.Drawing.Font("Battambang", 15.75!)
+        Me.Label1.ForeColor = System.Drawing.SystemColors.ControlLight
+        Me.Label1.Location = New System.Drawing.Point(112, 265)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(115, 49)
+        Me.Label1.TabIndex = 43
+        Me.Label1.Text = "Name"
+        '
+        'Label6
+        '
+        Me.Label6.AutoSize = True
+        Me.Label6.Font = New System.Drawing.Font("Battambang", 15.75!)
+        Me.Label6.ForeColor = System.Drawing.SystemColors.ControlLight
+        Me.Label6.Location = New System.Drawing.Point(168, 202)
+        Me.Label6.Name = "Label6"
+        Me.Label6.Size = New System.Drawing.Size(56, 49)
+        Me.Label6.TabIndex = 47
+        Me.Label6.Text = "ID"
         '
         'ItemEdit
         '
@@ -271,6 +343,12 @@ Partial Class ItemEdit
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.FromArgb(CType(CType(61, Byte), Integer), CType(CType(63, Byte), Integer), CType(CType(81, Byte), Integer))
         Me.ClientSize = New System.Drawing.Size(649, 623)
+        Me.Controls.Add(Me.Label6)
+        Me.Controls.Add(Me.Label4)
+        Me.Controls.Add(Me.Label3)
+        Me.Controls.Add(Me.Label2)
+        Me.Controls.Add(Me.Label1)
+        Me.Controls.Add(Me.Label5)
         Me.Controls.Add(Me.Guna2PictureBox1)
         Me.Controls.Add(Me.Guna2TextBox5)
         Me.Controls.Add(Me.Guna2HtmlLabel6)
@@ -285,7 +363,7 @@ Partial Class ItemEdit
         Me.Controls.Add(Me.Guna2HtmlLabel1)
         Me.Controls.Add(Me.Guna2HtmlLabel5)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
-        Me.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.Margin = New System.Windows.Forms.Padding(4)
         Me.Name = "ItemEdit"
         Me.Text = "itemEdit"
         CType(Me.Guna2PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
@@ -308,4 +386,10 @@ Partial Class ItemEdit
     Friend WithEvents Guna2TextBox5 As Guna.UI2.WinForms.Guna2TextBox
     Friend WithEvents Guna2HtmlLabel6 As Guna.UI2.WinForms.Guna2HtmlLabel
     Friend WithEvents Guna2PictureBox1 As Guna.UI2.WinForms.Guna2PictureBox
+    Friend WithEvents Label5 As Label
+    Friend WithEvents Label4 As Label
+    Friend WithEvents Label3 As Label
+    Friend WithEvents Label2 As Label
+    Friend WithEvents Label1 As Label
+    Friend WithEvents Label6 As Label
 End Class
